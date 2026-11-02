@@ -1,0 +1,40 @@
+# Sadame - an Omarchy theme
+# Night-indigo walls, sakura pink, lamp amber and the Sadame red knot.
+# Brand red #bd304c and its dark-mode link pink #e8798f come from
+# https://enderkus.github.io/sadame/; the rest is sampled from the wallpaper.
+
+mode = "dark"
+
+accent = "#e8798f"
+selection = "#2f3263"
+muted = "#5f5c8a"
+
+background = "#181a2f"
+dark_background = "#131527"
+darker_background = "#0e0f1e"
+lighter_background = "#232648"
+
+foreground = "#e6dac6"
+dark_foreground = "#8e89ad"
+light_foreground = "#efe4d1"
+bright_foreground = "#fbefdc"
+
+red = "#e5566f"
+yellow = "#eab56c"
+orange = "#e9895a"
+green = "#a8c48c"
+cyan = "#7fc0c8"
+blue = "#8496ec"
+magenta = "#d683d6"
+brown = "#8f4b3e"
+
+bright_red = "#f27a8d"
+bright_yellow = "#f6d08f"
+bright_green = "#c0dba5"
+bright_cyan = "#a2d8de"
+bright_blue = "#a6b4f6"
+bright_magenta = "#eaa3e6"
+
+# Window borders run from the Sadame red into the sakura pink.
+hyprland_active_border = "rgba(bd304cee) rgba(e8798fee) 45deg"
+hyprland_inactive_border = "rgba(2f3263aa)"
