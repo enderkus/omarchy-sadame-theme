@@ -7,7 +7,7 @@ Night-indigo walls, sakura pink, lamp-lit amber and the red Sadame knot. The bra
 red `#bd304c` and its dark-mode pink `#e8798f` come straight from the Sadame docs;
 the rest of the palette is sampled from the pixel-art wallpaper.
 
-![Sadame pixel wallpaper](backgrounds/1-sadame-pixel.png)
+![Sadame theme on Omarchy](preview.png)
 
 ## Install
 
@@ -25,6 +25,7 @@ repository URL. The theme appears as **Sadame** in the theme picker (`Super + Ct
 | `colors.toml` | The palette. Omarchy generates the terminal, Neovim, btop, Chromium, Hyprland, VS Code and shell colours from it. |
 | `backgrounds/` | The Sadame pixel-art room, plus a quiet knot wallpaper. Switch with `Super + Ctrl + W`. |
 | `icons.theme` | `Yaru-red` file-manager icons, to match the knot. |
+| `preview.png` | The theme picker's preview: Neovim, btop, a terminal and Files on the pixel wallpaper. |
 | `unlock.png` | The Sadame knot for the boot unlock screen. Pick it under _Appearance > Unlock_. |
 | `preview-unlock.png` | Preview of that unlock screen. |
 
